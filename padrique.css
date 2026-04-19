@@ -1,0 +1,14 @@
+body{
+    background-image:url(images/coffee-background-top-1.jpg);
+    background-size: cover;
+    font-size: 25px;
+    font-style: oblique;
+}
+h2{
+    background-color: beige;
+    display: inline-block;
+    font-size: 25px;
+}
+h4{
+    font-size: 25px;
+}
